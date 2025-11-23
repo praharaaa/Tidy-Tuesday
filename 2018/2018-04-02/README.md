@@ -17,6 +17,3 @@ Visualization of percentage increase in public four-year in-state tuition and fe
 
 ## Visualization
 ![Tuition Growth Map](tuition_growth_map.png)
-
-## Author
-Bayu Prahara

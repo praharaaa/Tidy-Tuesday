@@ -8,7 +8,7 @@ library(tigris)
 # Load data ---------------------------------------------------------------
 
 tuesdata <- read.csv(
-    "C:/Users/acer/Documents/Latihan R/Tidy Tuesday/2018/2018-04-02/2018_04_02_Tuition Fee in US by state (2004-2025).csv"
+    "2018_04_02_Tuition Fee in US by state (2004-2025)"
     )
 US_tuition_fee <-tuesdata |>
     mutate(
