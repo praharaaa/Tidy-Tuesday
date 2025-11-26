@@ -18,5 +18,5 @@ This visualization explores HIV/AIDS Mortality Rate Trends from 1990 to 2016.
 - ggplot2 for visualization
 
 ## Visualization
-![Global Mortality](HIV_AIDS Mortality Rate.png)
+[Global Mortality](HIV_AIDS Mortality Rate.png)
 
