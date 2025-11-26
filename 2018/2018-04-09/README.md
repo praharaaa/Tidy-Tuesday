@@ -16,5 +16,5 @@ This visualization explores salary inequality across different NFL positions fro
 - ggplot2 for visualization
 
 ## Visualization
-![NFL Pay Disparity](2018/2018-04-09/nfl_pay_disparity.png)
+![NFL Pay Disparity](nfl_pay_disparity.png)
 
