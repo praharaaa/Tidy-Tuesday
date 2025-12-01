@@ -226,13 +226,3 @@ plt <- ggplot(AU_salary, aes(x = ratio_FM, y = average_taxable_income_Total, siz
         panel.background = element_rect(fill = bg_col, color = bg_col)
     )
 print(plt)
-
-# Misalnya plot kamu bernama plt
-ggsave(
-  filename = "C:/Users/acer/Documents/Tidy Tuesday/2018/2018-04-23/income_gap_in_AU.png",
-  plot = plt,
-  width = 3000,   # dalam pixel
-  height = 3500,  # dalam pixel
-  units = "px",
-  dpi = 300       # resolusi (dots per inch)
-)
