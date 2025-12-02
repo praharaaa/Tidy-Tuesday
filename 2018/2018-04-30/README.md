@@ -17,4 +17,4 @@ This visualization explores how county-level poverty rates relate to median hous
 - ggplot2 for visualization
 
 ## Visualization
-![ACS Census Data 2015](income_poverty_us_counties.png)
+![ACS Census Data 2015](income_poverty_US.png)
