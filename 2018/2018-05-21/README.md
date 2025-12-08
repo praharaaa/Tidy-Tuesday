@@ -18,4 +18,4 @@ This visualization tracks the average retail price of honey per pound across US 
 - dplyr for data wrangling and aggregation
 
 ## Visualization
-![Honey Prices in the US](honey_price_per_year.png)
+![Honey Prices in the US](honey_price_in_US.png)
