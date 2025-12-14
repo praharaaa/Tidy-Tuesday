@@ -8,7 +8,7 @@ This alluvial diagram visualizes Marvel's character roster across three dimensio
 - **Bad characters outnumber good**: Across all genders, villainous characters are more prevalent than heroic ones, reflecting Marvel's focus on morally complex narratives.
 
 ## Data Source
-- Comic Characters dataset from [TidyTuesday (2020-09-29)](https://github.com/rfordatascience/tidytuesday/tree/main/data/2020/2020-09-29), filtered to Marvel characters only.
+- Comic Characters dataset from [TidyTuesday (2020-09-29)](https://github.com/rfordatascience/tidytuesday/tree/main/data/2018/2018-05-29), filtered to Marvel characters only.
 
 ## Tools
 - R (tidyverse, ggplot2, scales, ggtext, showtext)
