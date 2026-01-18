@@ -1,7 +1,7 @@
 # TidyTuesday: Beer Name Patterns
 
 ## Overview
-This directed graph maps sequential word chains in 2,411 beer names from the TidyTuesday dataset. Blue descriptor nodes (pale, brown, blonde, golden, etc.) connect to red style nodes (ale, ipa, lager, stout) via arrows indicating word order. Arrow thickness encodes frequency, highlighting common naming conventions such as “pale ale” or “brown ale” The visualization reveals how descriptors cluster around core beer styles, illustrating linguistic patterns in brewery naming traditions.
+This directed graph maps sequential word chains in 2,411 beer names from the TidyTuesday dataset. Blue descriptor nodes (pale, brown, blonde, golden, etc.) connect to red style nodes (ale and ipa) via arrows indicating word order. Arrow thickness encodes frequency, highlighting common naming conventions such as “pale ale” or “brown ale” The visualization reveals how descriptors cluster around core beer styles, illustrating linguistic patterns in brewery naming traditions.
 
 ## Key Findings
 - **Pale Ale dominates**: "Pale" → "Ale" is the most frequent combination, appearing more times than any other descriptor-style sequence.
