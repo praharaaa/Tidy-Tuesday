@@ -16,4 +16,4 @@ This choropleth map visualizes the percentage of adults aged 18–64 who meet bo
 - R (tidyverse, tidytuesdayR, sf, tigris, showtext, ggtext, scales, cowplot, viridis)
 
 ## Visualization
-![Leisure-Time Physical Activity Map](Mapping_LTPA.png)
+![Leisure-Time Physical Activity Map](Mapping_LPTA.png)
