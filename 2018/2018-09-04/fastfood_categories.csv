@@ -1,0 +1,516 @@
+,restaurant,item,calories,item_lower,category
+1,Mcdonalds,Artisan Grilled Chicken Sandwich,380,artisan grilled chicken sandwich,Sandwich
+2,Mcdonalds,Single Bacon Smokehouse Burger,840,single bacon smokehouse burger,Burger
+3,Mcdonalds,Double Bacon Smokehouse Burger,1130,double bacon smokehouse burger,Burger
+4,Mcdonalds,Grilled Bacon Smokehouse Chicken Sandwich,750,grilled bacon smokehouse chicken sandwich,Sandwich
+5,Mcdonalds,Crispy Bacon Smokehouse Chicken Sandwich,920,crispy bacon smokehouse chicken sandwich,Sandwich
+6,Mcdonalds,Big Mac,540,big mac,Burger
+7,Mcdonalds,Cheeseburger,300,cheeseburger,Burger
+8,Mcdonalds,Classic Chicken Sandwich,510,classic chicken sandwich,Sandwich
+9,Mcdonalds,Double Cheeseburger,430,double cheeseburger,Burger
+10,Mcdonalds,Double Quarter Pounder® with Cheese,770,double quarter pounder® with cheese,Burger
+11,Mcdonalds,Filet-O-Fish®,380,filet-o-fish®,Sandwich
+12,Mcdonalds,Garlic White Cheddar Burger,620,garlic white cheddar burger,Burger
+13,Mcdonalds,Grilled Garlic White Cheddar Chicken Sandwich,530,grilled garlic white cheddar chicken sandwich,Sandwich
+14,Mcdonalds,Crispy Garlic White Cheddar Chicken Sandwich,700,crispy garlic white cheddar chicken sandwich,Sandwich
+15,Mcdonalds,Hamburger,250,hamburger,Burger
+16,Mcdonalds,Lobster Roll,290,lobster roll,Sandwich
+17,Mcdonalds,Maple Bacon Dijon 1/4 lb Burger,640,maple bacon dijon 1/4 lb burger,Burger
+18,Mcdonalds,Grilled Maple Bacon Dijon Chicken Sandwich,580,grilled maple bacon dijon chicken sandwich,Sandwich
+19,Mcdonalds,Crispy Maple Bacon Dijon Chicken Sandwich,740,crispy maple bacon dijon chicken sandwich,Sandwich
+20,Mcdonalds,McChicken,350,mcchicken,Sandwich
+21,Mcdonalds,McDouble,380,mcdouble,Burger
+22,Mcdonalds,McRib,480,mcrib,Sandwich
+23,Mcdonalds,Pico Guacamole 1/4 lb Burger,580,pico guacamole 1/4 lb burger,Burger
+24,Mcdonalds,Grilled Pico Guacamole Chicken Sandwich,520,grilled pico guacamole chicken sandwich,Sandwich
+25,Mcdonalds,Crispy Pico Guacamole Chicken Sandwich,680,crispy pico guacamole chicken sandwich,Sandwich
+26,Mcdonalds,Premium Buttermilk Crispy Chicken Deluxe Sandwich,570,premium buttermilk crispy chicken deluxe sandwich,Sandwich
+27,Mcdonalds,Premium Crispy Chicken Deluxe Sandwich,530,premium crispy chicken deluxe sandwich,Sandwich
+28,Mcdonalds,Quarter Pounder® with Cheese,530,quarter pounder® with cheese,Burger
+29,Mcdonalds,Signature Sriracha Burger,670,signature sriracha burger,Burger
+30,Mcdonalds,Grilled Signature Sriracha Chicken Sandwich,560,grilled signature sriracha chicken sandwich,Sandwich
+31,Mcdonalds,Crispy Signature Sriracha Chicken Sandwich,730,crispy signature sriracha chicken sandwich,Sandwich
+32,Mcdonalds,Sweet BBQ Bacon 1/4 lb Burger,690,sweet bbq bacon 1/4 lb burger,Burger
+33,Mcdonalds,Grilled Sweet BBQ Bacon Chicken Sandwich,630,grilled sweet bbq bacon chicken sandwich,Sandwich
+34,Mcdonalds,Crispy Sweet BBQ Bacon Chicken Sandwich,800,crispy sweet bbq bacon chicken sandwich,Sandwich
+35,Mcdonalds,3 piece Buttermilk Crispy Chicken Tenders,370,3 piece buttermilk crispy chicken tenders,Fried Chicken
+36,Mcdonalds,4 piece Buttermilk Crispy Chicken Tenders,480,4 piece buttermilk crispy chicken tenders,Fried Chicken
+37,Mcdonalds,6 piece Buttermilk Crispy Chicken Tenders,760,6 piece buttermilk crispy chicken tenders,Fried Chicken
+38,Mcdonalds,10 piece Buttermilk Crispy Chicken Tenders,1210,10 piece buttermilk crispy chicken tenders,Fried Chicken
+39,Mcdonalds,12 piece Buttermilk Crispy Chicken Tenders,1510,12 piece buttermilk crispy chicken tenders,Fried Chicken
+40,Mcdonalds,20 piece Buttermilk Crispy Chicken Tenders,2430,20 piece buttermilk crispy chicken tenders,Fried Chicken
+41,Mcdonalds,4 Piece Chicken McNuggets,180,4 piece chicken mcnuggets,Fried Chicken
+42,Mcdonalds,6 Piece Chicken McNuggets,270,6 piece chicken mcnuggets,Fried Chicken
+43,Mcdonalds,10 Piece Chicken McNuggets,440,10 piece chicken mcnuggets,Fried Chicken
+44,Mcdonalds,20 Piece Chicken McNuggets,890,20 piece chicken mcnuggets,Fried Chicken
+45,Mcdonalds,40 piece Chicken McNuggets,1770,40 piece chicken mcnuggets,Fried Chicken
+46,Mcdonalds,4 piece Sweet N' Spicy Honey BBQ Glazed Tenders,640,4 piece sweet n' spicy honey bbq glazed tenders,Fried Chicken
+47,Mcdonalds,6 piece Sweet N' Spicy Honey BBQ Glazed Tenders,960,6 piece sweet n' spicy honey bbq glazed tenders,Fried Chicken
+48,Mcdonalds,10 piece Sweet N' Spicy Honey BBQ Glazed Tenders,1600,10 piece sweet n' spicy honey bbq glazed tenders,Fried Chicken
+49,Mcdonalds,Premium Asian Salad w/o Chicken,140,premium asian salad w/o chicken,Salad
+50,Mcdonalds,Premium Asian Salad w/ Grilled Chicken,270,premium asian salad w/ grilled chicken,Salad
+51,Mcdonalds,Premium Asian Salad w/ Crispy Chicken,490,premium asian salad w/ crispy chicken,Salad
+52,Mcdonalds,Premium Bacon Ranch Salad w/o Chicken,190,premium bacon ranch salad w/o chicken,Salad
+53,Mcdonalds,Premium Bacon Ranch Salad w/ Grilled Chicken,320,premium bacon ranch salad w/ grilled chicken,Salad
+54,Mcdonalds,Premium Bacon Ranch Salad w/ Crispy Chicken,490,premium bacon ranch salad w/ crispy chicken,Salad
+55,Mcdonalds,Premium Southwest Salad w/o Chicken,220,premium southwest salad w/o chicken,Salad
+56,Mcdonalds,Premium Southwest Salad w/ Grilled Chicken,350,premium southwest salad w/ grilled chicken,Salad
+57,Mcdonalds,Premium Southwest Salad w/ Crispy Chicken,520,premium southwest salad w/ crispy chicken,Salad
+58,Chick Fil-A,Chargrilled Chicken Club Sandwich,430,chargrilled chicken club sandwich,Sandwich
+59,Chick Fil-A,Chargrilled Chicken Sandwich,310,chargrilled chicken sandwich,Sandwich
+60,Chick Fil-A,Chick-n-Slider,270,chick-n-slider,Sandwich
+61,Chick Fil-A,1 Piece Chick-n-Strips,120,1 piece chick-n-strips,Fried Chicken
+62,Chick Fil-A,2 Piece Chick-n-Strips,230,2 piece chick-n-strips,Fried Chicken
+63,Chick Fil-A,3 Piece Chick-n-Strips,350,3 piece chick-n-strips,Fried Chicken
+64,Chick Fil-A,4 piece Chick-n-Strips,470,4 piece chick-n-strips,Fried Chicken
+65,Chick Fil-A,Chicken Deluxe,500,chicken deluxe,Sandwich
+66,Chick Fil-A,4 piece Chicken Nuggets,130,4 piece chicken nuggets,Fried Chicken
+67,Chick Fil-A,6 piece Chicken Nuggets,190,6 piece chicken nuggets,Fried Chicken
+68,Chick Fil-A,8 piece Chicken Nuggets,260,8 piece chicken nuggets,Fried Chicken
+69,Chick Fil-A,12 piece Chicken Nuggets,390,12 piece chicken nuggets,Fried Chicken
+70,Chick Fil-A,30 piece Chicken Nuggets,970,30 piece chicken nuggets,Fried Chicken
+71,Chick Fil-A,Chicken Salad Sandwich,490,chicken salad sandwich,Salad
+72,Chick Fil-A,Chicken Sandwich,440,chicken sandwich,Sandwich
+73,Chick Fil-A,4 Piece Grilled Chicken Nuggets,70,4 piece grilled chicken nuggets,Fried Chicken
+74,Chick Fil-A,6 Piece Grilled Chicken Nuggets,110,6 piece grilled chicken nuggets,Fried Chicken
+75,Chick Fil-A,8 piece Grilled Chicken Nuggets,140,8 piece grilled chicken nuggets,Fried Chicken
+76,Chick Fil-A,12 Piece Grilled Chicken Nuggets,210,12 piece grilled chicken nuggets,Fried Chicken
+77,Chick Fil-A,Spicy Grilled Chicken Sub Sandwich,430,spicy grilled chicken sub sandwich,Sandwich
+78,Chick Fil-A,Regular Grilled Chicken Sub Sandwich,450,regular grilled chicken sub sandwich,Sandwich
+79,Chick Fil-A,Smokehouse BBQ Bacon Sandwich,500,smokehouse bbq bacon sandwich,Sandwich
+80,Chick Fil-A,Spicy Chicken Sandwich,450,spicy chicken sandwich,Sandwich
+81,Chick Fil-A,Spicy Deluxe,540,spicy deluxe,Sandwich
+82,Chick Fil-A,Chargrilled Chicken Cool Wrap,350,chargrilled chicken cool wrap,Tacos & Wraps
+83,Chick Fil-A,Chicken Enchiladas Meal Kit,860,chicken enchiladas meal kit,Fried Chicken
+84,Chick Fil-A,Chicken Parmesan Meal Kit,720,chicken parmesan meal kit,Fried Chicken
+85,Sonic,Hatch Green Chile Cheeseburger,710,hatch green chile cheeseburger,Burger
+86,Sonic,Jalapeno Burger,640,jalapeno burger,Burger
+87,Sonic,Jr. Burger,340,jr. burger,Burger
+88,Sonic,Jr. Chili Cheeseburger,410,jr. chili cheeseburger,Burger
+89,Sonic,Jr. Deluxe Burger,380,jr. deluxe burger,Burger
+90,Sonic,Jr. Deluxe Cheeseburger,450,jr. deluxe cheeseburger,Burger
+91,Sonic,Jr. Double Cheeseburger,600,jr. double cheeseburger,Burger
+92,Sonic,Sonic Bacon Cheeseburger (w/mayo),870,sonic bacon cheeseburger (w/mayo),Burger
+93,Sonic,Sonic Burger W/ Mustard,640,sonic burger w/ mustard,Burger
+94,Sonic,Sonic Burger W/ Ketchup,650,sonic burger w/ ketchup,Burger
+95,Sonic,Sonic Burger W/ Mayonnaise,740,sonic burger w/ mayonnaise,Burger
+96,Sonic,Sonic Cheeseburger W/ Mustard,710,sonic cheeseburger w/ mustard,Burger
+97,Sonic,Sonic Cheeseburger W/ Ketchup,720,sonic cheeseburger w/ ketchup,Burger
+98,Sonic,Sonic Cheeseburger W/ Mayonnaise,800,sonic cheeseburger w/ mayonnaise,Burger
+99,Sonic,Super Sonic Bacon Double Cheeseburger (w/mayo),1280,super sonic bacon double cheeseburger (w/mayo),Burger
+100,Sonic,Super Sonic Double Cheeseburger W/ Mustard,1120,super sonic double cheeseburger w/ mustard,Burger
+101,Sonic,Super Sonic Double Cheeseburger W/ Ketchup,1130,super sonic double cheeseburger w/ ketchup,Burger
+102,Sonic,Super Sonic Double Cheeseburger W/ Mayo,1220,super sonic double cheeseburger w/ mayo,Burger
+103,Sonic,Super Sonic Jalapeno Double Cheeseburger,1120,super sonic jalapeno double cheeseburger,Burger
+104,Sonic,Veggie Burger W/ Ketchup,450,veggie burger w/ ketchup,Burger
+105,Sonic,Veggie Burger With Mustard,450,veggie burger with mustard,Burger
+106,Sonic,Veggie Burger W/ Mustard,450,veggie burger w/ mustard,Burger
+107,Sonic,Grilled Asiago Caesar Chicken Club Sandwich,610,grilled asiago caesar chicken club sandwich,Sandwich
+108,Sonic,Crispy Asiago Caesar Chicken Club Sandwich,680,crispy asiago caesar chicken club sandwich,Sandwich
+109,Sonic,Grilled Chicken Sandwich,430,grilled chicken sandwich,Sandwich
+110,Sonic,Crispy Chicken Sandwich,570,crispy chicken sandwich,Sandwich
+111,Sonic,Chicken Strip Sandwich,450,chicken strip sandwich,Sandwich
+112,Sonic,3 Piece Crispy Chicken Tender Dinner,280,3 piece crispy chicken tender dinner,Fried Chicken
+113,Sonic,5 Piece Crispy Chicken Tender Dinner,470,5 piece crispy chicken tender dinner,Fried Chicken
+114,Sonic,Deluxe Ultimate Chicken Sandwich,740,deluxe ultimate chicken sandwich,Sandwich
+115,Sonic,Buffalo Dunked Ultimate Chicken Sandwich,1000,buffalo dunked ultimate chicken sandwich,Sandwich
+116,Sonic,Garlic Parmesan Dunked Ultimate Chicken Sandwich,1350,garlic parmesan dunked ultimate chicken sandwich,Sandwich
+117,Sonic,Small Jumbo Popcorn Chicken,380,small jumbo popcorn chicken,Fried Chicken
+118,Sonic,Large Jumbo Popcorn Chicken,560,large jumbo popcorn chicken,Fried Chicken
+119,Sonic,Small Spicy Jumbo Popcorn Chicken,350,small spicy jumbo popcorn chicken,Fried Chicken
+120,Sonic,Large Spicy Jumbo Popcorn Chicken,610,large spicy jumbo popcorn chicken,Fried Chicken
+121,Sonic,3 Piece Super Crunch Chicken Strip Dinner,970,3 piece super crunch chicken strip dinner,Fried Chicken
+122,Sonic,4 Piece Super Crunch Chicken Strip Dinner,1080,4 piece super crunch chicken strip dinner,Fried Chicken
+123,Sonic,5 Piece Super Crunch Chicken Strip Dinner,1190,5 piece super crunch chicken strip dinner,Fried Chicken
+124,Sonic,3 Piece Super Crunch Chicken Strips,330,3 piece super crunch chicken strips,Fried Chicken
+125,Sonic,4 Piece Super Crunch Chicken Strips,440,4 piece super crunch chicken strips,Fried Chicken
+126,Sonic,5 Piece Super Crunch Chicken Strips,550,5 piece super crunch chicken strips,Fried Chicken
+127,Sonic,Traditional Ultimate Chicken Sandwich,730,traditional ultimate chicken sandwich,Sandwich
+128,Sonic,Ultimate Chicken Club,100,ultimate chicken club,Sandwich
+129,Sonic,"All Beef All-american Style Dog – 6""",370,"all beef all-american style dog – 6""",Hot Dog
+130,Sonic,"All Beef Chicago Dog – 6""",430,"all beef chicago dog – 6""",Hot Dog
+131,Sonic,"All Beef Chili Cheese Coney – 6""",410,"all beef chili cheese coney – 6""",Hot Dog
+132,Sonic,"All Beef New York Dog – 6""",340,"all beef new york dog – 6""",Hot Dog
+133,Sonic,"All Beef Regular Hot Dog – 6""",320,"all beef regular hot dog – 6""",Hot Dog
+134,Sonic,Cheesy Bacon Pretzel Dog - 6 In.,500,cheesy bacon pretzel dog - 6 in.,Hot Dog
+135,Sonic,Corn Dog,210,corn dog,Hot Dog
+136,Sonic,Footlong Quarter Pound Coney,830,footlong quarter pound coney,Hot Dog
+137,Sonic,The Original Pretzel Dog,320,the original pretzel dog,Hot Dog
+138,Arbys,Arby's Melt,330,arby's melt,Sandwich
+139,Arbys,Arby-Q Sandwich,400,arby-q sandwich,Sandwich
+140,Arbys,Beef 'n Cheddar Classic,450,beef 'n cheddar classic,Sandwich
+141,Arbys,Beef 'n Cheddar Mid,630,beef 'n cheddar mid,Sandwich
+142,Arbys,Bourbon BBQ Brisket Sandwich,650,bourbon bbq brisket sandwich,Sandwich
+143,Arbys,Bourbon BBQ Chicken Sandwich,690,bourbon bbq chicken sandwich,Sandwich
+144,Arbys,Bourbon BBQ Steak Sandwich,690,bourbon bbq steak sandwich,Sandwich
+145,Arbys,Buttermilk Buffalo Chicken Sandwich,540,buttermilk buffalo chicken sandwich,Sandwich
+146,Arbys,Buttermilk Chicken Bacon & Swiss,650,buttermilk chicken bacon & swiss,Sandwich
+147,Arbys,Buttermilk Chicken Cordon Bleu Sandwich,690,buttermilk chicken cordon bleu sandwich,Sandwich
+148,Arbys,Buttermilk Crispy Chicken Sandwich,550,buttermilk crispy chicken sandwich,Sandwich
+149,Arbys,Classic French Dip & Swiss/Au Jus,540,classic french dip & swiss/au jus,Sandwich
+150,Arbys,Classic Roast Beef,360,classic roast beef,Sandwich
+151,Arbys,Double Roast Beef,510,double roast beef,Sandwich
+152,Arbys,Fire-Roasted Philly Steak,640,fire-roasted philly steak,Sandwich
+153,Arbys,Grand Turkey Club,480,grand turkey club,Sandwich
+154,Arbys,Greek Gyro,710,greek gyro,Sandwich
+155,Arbys,Half Pound Beef 'n Cheddar Sandwich,740,half pound beef 'n cheddar sandwich,Sandwich
+156,Arbys,Half Pound French Dip & Swiss,750,half pound french dip & swiss,Sandwich
+157,Arbys,Half Pound Roast Beef Sandwich,610,half pound roast beef sandwich,Sandwich
+158,Arbys,Ham & Swiss Melt,300,ham & swiss melt,Sandwich
+159,Arbys,Loaded Italian Sandwich,680,loaded italian sandwich,Sandwich
+160,Arbys,Pecan Chicken Salad Flatbread,710,pecan chicken salad flatbread,Salad
+161,Arbys,Pecan Chicken Salad Sandwich,840,pecan chicken salad sandwich,Salad
+162,Arbys,2 piece Prime-Cut Chicken Tenders,240,2 piece prime-cut chicken tenders,Fried Chicken
+163,Arbys,3 piece Prime-Cut Chicken Tenders,360,3 piece prime-cut chicken tenders,Fried Chicken
+164,Arbys,5 piece Prime-Cut Chicken Tenders,600,5 piece prime-cut chicken tenders,Fried Chicken
+165,Arbys,Reuben Sandwich,680,reuben sandwich,Sandwich
+166,Arbys,Roast Beef Gyro,550,roast beef gyro,Sandwich
+167,Arbys,Roast Turkey & Swiss Sandwich,710,roast turkey & swiss sandwich,Sandwich
+168,Arbys,Roast Turkey & Swiss Wrap,520,roast turkey & swiss wrap,Tacos & Wraps
+169,Arbys,"Roast Turkey, Ranch & Bacon Sandwich",800,"roast turkey, ranch & bacon sandwich",Sandwich
+170,Arbys,"Roast Turkey, Ranch & Bacon Wrap",620,"roast turkey, ranch & bacon wrap",Tacos & Wraps
+171,Arbys,Smoke Mountain w/ Beef Short Rib,740,smoke mountain w/ beef short rib,Sandwich
+172,Arbys,Smokehouse Beef Short Rib Sandwich,590,smokehouse beef short rib sandwich,Sandwich
+173,Arbys,Smokehouse Brisket,600,smokehouse brisket,Sandwich
+174,Arbys,Super Roast Beef,430,super roast beef,Sandwich
+175,Arbys,Three Cheese Steak Sandwich,650,three cheese steak sandwich,Sandwich
+176,Arbys,Triple Decker Sandwich,1030,triple decker sandwich,Sandwich
+177,Arbys,Turkey Avocado Club,730,turkey avocado club,Sandwich
+178,Arbys,Turkey Gyro,470,turkey gyro,Sandwich
+179,Arbys,Ultimate BLT,980,ultimate blt,Sandwich
+180,Arbys,Buffalo Chicken Slider,290,buffalo chicken slider,Sandwich
+181,Arbys,Chicken Tender 'n Cheese Slider,290,chicken tender 'n cheese slider,Fried Chicken
+182,Arbys,Corned Beef 'n Cheese Slider,220,corned beef 'n cheese slider,Sandwich
+183,Arbys,Ham 'n Cheese Slider,210,ham 'n cheese slider,Sandwich
+184,Arbys,Jalapeno Roast Beef 'n Cheese Slider,240,jalapeno roast beef 'n cheese slider,Sandwich
+185,Arbys,Pizza Slider,300,pizza slider,Sandwich
+186,Arbys,Roast Beef 'n Cheese Slider,240,roast beef 'n cheese slider,Sandwich
+187,Arbys,Turkey 'n Cheese Slider,200,turkey 'n cheese slider,Sandwich
+188,Arbys,Chopped Side Salad,70,chopped side salad,Salad
+189,Arbys,Crispy Chicken Farmhouse Salad,430,crispy chicken farmhouse salad,Salad
+190,Arbys,Greek Gyro Salad,420,greek gyro salad,Salad
+191,Arbys,Roast Turkey Farmhouse Salad,230,roast turkey farmhouse salad,Salad
+192,Arbys,Super Greek Salad,720,super greek salad,Salad
+193,Burger King,American Brewhouse King,1550,american brewhouse king,Burger
+194,Burger King,Bacon & Swiss Sourdough King,1000,bacon & swiss sourdough king,Burger
+195,Burger King,Bacon Cheeseburger,330,bacon cheeseburger,Burger
+196,Burger King,Bacon Cheeseburger Deluxe,290,bacon cheeseburger deluxe,Burger
+197,Burger King,Bacon King,1040,bacon king,Burger
+198,Burger King,Bacon King Jr,730,bacon king jr,Burger
+199,Burger King,BBQ Bacon King,1100,bbq bacon king,Burger
+200,Burger King,Cheeseburger,300,cheeseburger,Burger
+201,Burger King,Double Bacon Cheeseburger,520,double bacon cheeseburger,Burger
+202,Burger King,Double Cheeseburger,450,double cheeseburger,Burger
+203,Burger King,Double Hamburger,360,double hamburger,Burger
+204,Burger King,Double Quarter Pound King,900,double quarter pound king,Burger
+205,Burger King,Extra Long Cheeseburger,580,extra long cheeseburger,Burger
+206,Burger King,Farmhouse King,1220,farmhouse king,Burger
+207,Burger King,Hamburger,260,hamburger,Burger
+208,Burger King,Homestyle Cheeseburger,550,homestyle cheeseburger,Burger
+209,Burger King,Jalapeno King Sandwich,990,jalapeno king sandwich,Sandwich
+210,Burger King,Mushroom & Swiss King,940,mushroom & swiss king,Burger
+211,Burger King,Rodeo Burger,310,rodeo burger,Burger
+212,Burger King,Rodeo King,1250,rodeo king,Burger
+213,Burger King,Sourdough King Single,730,sourdough king single,Burger
+214,Burger King,Sourdough King Double,970,sourdough king double,Burger
+215,Burger King,Steakhouse King,1100,steakhouse king,Burger
+216,Burger King,Bacon & Cheese Whopper,770,bacon & cheese whopper,Burger
+217,Burger King,DOUBLE WHOPPER w/o Cheese,900,double whopper w/o cheese,Burger
+218,Burger King,DOUBLE WHOPPER w/ Cheese,990,double whopper w/ cheese,Burger
+219,Burger King,WHOPPER w/o Cheese,660,whopper w/o cheese,Burger
+220,Burger King,WHOPPER w/ Cheese,760,whopper w/ cheese,Burger
+221,Burger King,WHOPPER JR. w/o Cheese,340,whopper jr. w/o cheese,Burger
+222,Burger King,WHOPPER JR. w/ Cheese,380,whopper jr. w/ cheese,Burger
+223,Burger King,Bacon Cheddar Ranch Chicken Salad w/ grilled Chicken & Dressing,590,bacon cheddar ranch chicken salad w/ grilled chicken & dressing,Salad
+224,Burger King,Bacon Cheddar Ranch Chicken Salad w/ crispy Chicken & Dressing,720,bacon cheddar ranch chicken salad w/ crispy chicken & dressing,Salad
+225,Burger King,Chicken BLT Salad w/ Grilled Chicken,550,chicken blt salad w/ grilled chicken,Salad
+226,Burger King,Chicken BLT Salad w/ Crispy Chicken,690,chicken blt salad w/ crispy chicken,Salad
+227,Burger King,Chicken Caesar Salad w/ Grilled Chicken,530,chicken caesar salad w/ grilled chicken,Salad
+228,Burger King,Chicken Caesar Salad w/ Crispy Chicken,670,chicken caesar salad w/ crispy chicken,Salad
+229,Burger King,"Chicken, Apple & Cranberry Salad w/ Grilled Chicken",560,"chicken, apple & cranberry salad w/ grilled chicken",Salad
+230,Burger King,"Chicken, Apple & Cranberry Salad w/ Crispy Chicken",700,"chicken, apple & cranberry salad w/ crispy chicken",Salad
+231,Burger King,"Garden Grilled Chicken Salad w/ Grilled Chicken, no dressing",320,"garden grilled chicken salad w/ grilled chicken, no dressing",Salad
+232,Burger King,"Garden Grilled Chicken Salad w/ Crispy Chicken, no dressing",450,"garden grilled chicken salad w/ crispy chicken, no dressing",Salad
+233,Burger King,Side Caesar Salad with dressing,220,side caesar salad with dressing,Salad
+234,Burger King,Side Garden Salad and Avocado Ranch Dressing,230,side garden salad and avocado ranch dressing,Salad
+235,Burger King,Bacon Cheddar Ranch Crispy Chicken Sandwich,830,bacon cheddar ranch crispy chicken sandwich,Sandwich
+236,Burger King,BBQ Bacon Crispy Chicken Sandwich,440,bbq bacon crispy chicken sandwich,Sandwich
+237,Burger King,Big Fish Sandwich,530,big fish sandwich,Sandwich
+238,Burger King,BK VEGGIE Burger,410,bk veggie burger,Burger
+239,Burger King,Chicken Burger,480,chicken burger,Burger
+240,Burger King,Chicken Cordon Bleu Sandwich,730,chicken cordon bleu sandwich,Sandwich
+241,Burger King,Chicken Fries,290,chicken fries,Fried Chicken
+242,Burger King,4 Piece Chicken Nuggets,190,4 piece chicken nuggets,Fried Chicken
+243,Burger King,6 Piece Chicken Nuggets,290,6 piece chicken nuggets,Fried Chicken
+244,Burger King,20 Piece Chicken Nuggets,950,20 piece chicken nuggets,Fried Chicken
+245,Burger King,Chicken Nuggets (10pc),470,chicken nuggets (10pc),Fried Chicken
+246,Burger King,Chicken Parmesan Sandwich,570,chicken parmesan sandwich,Sandwich
+247,Burger King,Crispy Buffalo Chicken Melt,580,crispy buffalo chicken melt,Sandwich
+248,Burger King,Crispy Chicken Jr.,430,crispy chicken jr.,Sandwich
+249,Burger King,Crispy Chicken Sandwich,670,crispy chicken sandwich,Sandwich
+250,Burger King,Grilled Chicken Sandwich,470,grilled chicken sandwich,Sandwich
+251,Burger King,Grilled Chili Cheese Dog,330,grilled chili cheese dog,Sandwich
+252,Burger King,Grilled Hot Dog,310,grilled hot dog,Sandwich
+253,Burger King,Jalapeno Chicken Fries,300,jalapeno chicken fries,Fried Chicken
+254,Burger King,Original Chicken Sandwich,630,original chicken sandwich,Sandwich
+255,Burger King,Pretzel Chicken Fries,340,pretzel chicken fries,Fried Chicken
+256,Burger King,Rodeo Crispy Chicken Sandwich,410,rodeo crispy chicken sandwich,Sandwich
+257,Burger King,Sourdough Chicken Club,840,sourdough chicken club,Sandwich
+258,Burger King,4 Piece Spicy Chicken Nuggets,210,4 piece spicy chicken nuggets,Fried Chicken
+259,Burger King,Spicy Chicken Nuggets,530,spicy chicken nuggets,Fried Chicken
+260,Burger King,Spicy Crispy Chicken Jr.,410,spicy crispy chicken jr.,Sandwich
+261,Burger King,Spicy Crispy Chicken Sandwich,700,spicy crispy chicken sandwich,Sandwich
+262,Burger King,Spicy Crispy Jalapeno Chicken Sandwich,760,spicy crispy jalapeno chicken sandwich,Sandwich
+263,Dairy Queen,1/2 lb. FlameThrower® GrillBurger,1000,1/2 lb. flamethrower® grillburger,Burger
+264,Dairy Queen,1/2 lb. GrillBurger with Cheese,800,1/2 lb. grillburger with cheese,Burger
+265,Dairy Queen,1/4 lb. Bacon Cheese GrillBurger,630,1/4 lb. bacon cheese grillburger,Burger
+266,Dairy Queen,1/4 lb. GrillBurger with Cheese,540,1/4 lb. grillburger with cheese,Burger
+267,Dairy Queen,1/4 lb. Mushroom Swiss GrillBurger,570,1/4 lb. mushroom swiss grillburger,Burger
+268,Dairy Queen,Original Cheeseburger,400,original cheeseburger,Burger
+269,Dairy Queen,Original Double Cheeseburger,630,original double cheeseburger,Burger
+270,Dairy Queen,4 Piece Chicken Strip Basket w/ Country Gravy,1030,4 piece chicken strip basket w/ country gravy,Fried Chicken
+271,Dairy Queen,6 Piece Chicken Strip Basket w/ Country Gravy,1260,6 piece chicken strip basket w/ country gravy,Fried Chicken
+272,Dairy Queen,Bacon Cheese Dog,420,bacon cheese dog,Hot Dog
+273,Dairy Queen,Cheese Dog,390,cheese dog,Hot Dog
+274,Dairy Queen,Chili Cheese Dog,380,chili cheese dog,Hot Dog
+275,Dairy Queen,Chili Dog,330,chili dog,Hot Dog
+276,Dairy Queen,Hot Dog,290,hot dog,Hot Dog
+277,Dairy Queen,Relish Dog,350,relish dog,Hot Dog
+278,Dairy Queen,Barbecue Pork Sandwich,310,barbecue pork sandwich,Sandwich
+279,Dairy Queen,Breaded Mushrooms,250,breaded mushrooms,Other
+280,Dairy Queen,Regular Cheese Curds,550,regular cheese curds,Other
+281,Dairy Queen,Large Cheese Curds,1050,large cheese curds,Other
+282,Dairy Queen,Chili Cheese Mega Dog,760,chili cheese mega dog,Hot Dog
+283,Dairy Queen,Corn Dog,260,corn dog,Hot Dog
+284,Dairy Queen,Crispy Fish Sandwich,470,crispy fish sandwich,Sandwich
+285,Dairy Queen,Deluxe Cheeseburger,400,deluxe cheeseburger,Burger
+286,Dairy Queen,Deluxe Double Cheeseburger,640,deluxe double cheeseburger,Burger
+287,Dairy Queen,Deluxe Double Hamburger,540,deluxe double hamburger,Burger
+288,Dairy Queen,Deluxe Hamburger,350,deluxe hamburger,Burger
+289,Dairy Queen,DQ Ultimate® Burger,780,dq ultimate® burger,Burger
+290,Dairy Queen,Pork Tenderloin Sandwich,580,pork tenderloin sandwich,Fried Chicken
+291,Dairy Queen,Steak Finger Basket,910,steak finger basket,Other
+292,Dairy Queen,3 chicken strips Chicken Strips,350,3 chicken strips chicken strips,Fried Chicken
+293,Dairy Queen,Chicken Bacon Ranch Sandwich,500,chicken bacon ranch sandwich,Sandwich
+294,Dairy Queen,Chicken Mozzarella Sandwich,640,chicken mozzarella sandwich,Sandwich
+295,Dairy Queen,Crispy Chicken BLT Salad,520,crispy chicken blt salad,Salad
+296,Dairy Queen,Crispy Chicken Garden Greens Salad,280,crispy chicken garden greens salad,Salad
+297,Dairy Queen,Crispy Chicken Sandwich,600,crispy chicken sandwich,Sandwich
+298,Dairy Queen,Crispy Chicken Wrap,350,crispy chicken wrap,Tacos & Wraps
+299,Dairy Queen,Grilled Chicken BLT Salad,380,grilled chicken blt salad,Salad
+300,Dairy Queen,Grilled Chicken Garden Greens Salad,150,grilled chicken garden greens salad,Salad
+301,Dairy Queen,Grilled Chicken Sandwich,360,grilled chicken sandwich,Sandwich
+302,Dairy Queen,Grilled Chicken Wrap,280,grilled chicken wrap,Tacos & Wraps
+303,Dairy Queen,Side Salad,20,side salad,Salad
+304,Dairy Queen,Turkey BLT Sandwich,550,turkey blt sandwich,Sandwich
+305,Subway,"6"" B.L.T.",320,"6"" b.l.t.",Sandwich
+306,Subway,Footlong B.L.T.,640,footlong b.l.t.,Sandwich
+307,Subway,"6"" BBQ Rib Sandwich",430,"6"" bbq rib sandwich",Sandwich
+308,Subway,Footlong BBQ Rib Sandwich,860,footlong bbq rib sandwich,Sandwich
+309,Subway,"6"" Big Hot Pastrami",580,"6"" big hot pastrami",Sandwich
+310,Subway,Footlong Big Hot Pastrami,1160,footlong big hot pastrami,Sandwich
+311,Subway,"6"" Big Philly Cheesesteak",500,"6"" big philly cheesesteak",Sandwich
+312,Subway,Footlong Big Philly Cheesesteak,1000,footlong big philly cheesesteak,Sandwich
+313,Subway,Kids Mini Sub Black Forest Ham,180,kids mini sub black forest ham,Sandwich
+314,Subway,"6"" Black Forest Ham",290,"6"" black forest ham",Sandwich
+315,Subway,Footlong Black Forest Ham,580,footlong black forest ham,Sandwich
+316,Subway,"6"" Carved Turkey",330,"6"" carved turkey",Sandwich
+317,Subway,Footlong Carved Turkey,660,footlong carved turkey,Sandwich
+318,Subway,"6"" Carved Turkey & Bacon w/ Cheese",570,"6"" carved turkey & bacon w/ cheese",Sandwich
+319,Subway,Footlong Carved Turkey & Bacon w/ Cheese,1140,footlong carved turkey & bacon w/ cheese,Sandwich
+320,Subway,"6"" Chicken & Bacon Ranch Melt",570,"6"" chicken & bacon ranch melt",Sandwich
+321,Subway,Footlong Chicken & Bacon Ranch Melt,1140,footlong chicken & bacon ranch melt,Sandwich
+322,Subway,"6"" Chicken Pizziola Melt",460,"6"" chicken pizziola melt",Sandwich
+323,Subway,Footlong Chicken Pizziola Melt,920,footlong chicken pizziola melt,Sandwich
+324,Subway,"6"" Cold Cut Combo",370,"6"" cold cut combo",Sandwich
+325,Subway,Footlong Cold Cut Combo,740,footlong cold cut combo,Sandwich
+326,Subway,"6"" Corned Beef Reuben",470,"6"" corned beef reuben",Sandwich
+327,Subway,Footlong Corned Beef Reuben,940,footlong corned beef reuben,Sandwich
+328,Subway,"6"" Italian B.M.T.",410,"6"" italian b.m.t.",Sandwich
+329,Subway,Footlong Italian B.M.T.,820,footlong italian b.m.t.,Sandwich
+330,Subway,"6"" Italian Hero",550,"6"" italian hero",Sandwich
+331,Subway,Footlong Italian Hero,1100,footlong italian hero,Sandwich
+332,Subway,"6"" Meatball Marinara",480,"6"" meatball marinara",Sandwich
+333,Subway,Footlong Meatball Marinara,960,footlong meatball marinara,Sandwich
+334,Subway,"6"" Oven Roasted Chicken",320,"6"" oven roasted chicken",Sandwich
+335,Subway,Footlong Oven Roasted Chicken,640,footlong oven roasted chicken,Sandwich
+336,Subway,Kids Mini Sub Roast Beef,200,kids mini sub roast beef,Sandwich
+337,Subway,"6"" Roast Beef",320,"6"" roast beef",Sandwich
+338,Subway,Footlong Roast Beef,640,footlong roast beef,Sandwich
+339,Subway,"6"" Rotisserie Style Chicken",350,"6"" rotisserie style chicken",Sandwich
+340,Subway,Footlong Rotisserie Style Chicken,700,footlong rotisserie style chicken,Sandwich
+341,Subway,"6"" Spicy Italian",480,"6"" spicy italian",Sandwich
+342,Subway,Footlong Spicy Italian,960,footlong spicy italian,Sandwich
+343,Subway,"6"" Steak and Cheese",380,"6"" steak and cheese",Sandwich
+344,Subway,Footlong Steak and Cheese,760,footlong steak and cheese,Sandwich
+345,Subway,"6"" Subway Club",310,"6"" subway club",Sandwich
+346,Subway,Footlong Subway Club,620,footlong subway club,Sandwich
+347,Subway,"6"" Subway Melt (includes cheese)",370,"6"" subway melt (includes cheese)",Sandwich
+348,Subway,Footlong Subway Melt (includes cheese),740,footlong subway melt (includes cheese),Sandwich
+349,Subway,"6"" Subway Seafood Sensation",420,"6"" subway seafood sensation",Sandwich
+350,Subway,Footlong Subway Seafood Sensation,840,footlong subway seafood sensation,Sandwich
+351,Subway,"6"" Sweet Onion Chicken Teriyaki",380,"6"" sweet onion chicken teriyaki",Sandwich
+352,Subway,Footlong Sweet Onion Chicken Teriyaki,760,footlong sweet onion chicken teriyaki,Sandwich
+353,Subway,"6"" Tuna",470,"6"" tuna",Sandwich
+354,Subway,Footlong Tuna,940,footlong tuna,Sandwich
+355,Subway,"6"" Turkey & Bacon Avocado",390,"6"" turkey & bacon avocado",Sandwich
+356,Subway,Footlong Turkey & Bacon Avocado,780,footlong turkey & bacon avocado,Sandwich
+357,Subway,Kids Mini Sub Turkey Breast,180,kids mini sub turkey breast,Sandwich
+358,Subway,"6"" Turkey Breast",280,"6"" turkey breast",Sandwich
+359,Subway,Footlong Turkey Breast,560,footlong turkey breast,Sandwich
+360,Subway,"6"" Turkey Breast & Ham",280,"6"" turkey breast & ham",Sandwich
+361,Subway,Footlong Turkey Breast & Ham,560,footlong turkey breast & ham,Sandwich
+362,Subway,"6"" Turkey Italiano Melt (with Provolone)",490,"6"" turkey italiano melt (with provolone)",Sandwich
+363,Subway,Footlong Turkey Italiano Melt (with Provolone),980,footlong turkey italiano melt (with provolone),Sandwich
+364,Subway,Kids Mini Sub Veggie Delite,150,kids mini sub veggie delite,Sandwich
+365,Subway,"6"" Veggie Delite",230,"6"" veggie delite",Sandwich
+366,Subway,Footlong Veggie Delite,460,footlong veggie delite,Sandwich
+367,Subway,"6"" Veggie Patty",390,"6"" veggie patty",Sandwich
+368,Subway,Footlong Veggie Patty,780,footlong veggie patty,Sandwich
+369,Subway,Autumn Carved Turkey Salad,300,autumn carved turkey salad,Salad
+370,Subway,B.L.T. Salad,150,b.l.t. salad,Salad
+371,Subway,Big Hot Pastrami Melt Salad,400,big hot pastrami melt salad,Salad
+372,Subway,Big Philly Cheesesteak Salad,330,big philly cheesesteak salad,Salad
+373,Subway,Black Forest Ham Salad,110,black forest ham salad,Salad
+374,Subway,Buffalo Chicken Salad (with Ranch dressing),360,buffalo chicken salad (with ranch dressing),Salad
+375,Subway,Carved Turkey & Bacon w/ Cheese Salad,280,carved turkey & bacon w/ cheese salad,Salad
+376,Subway,Carved Turkey Salad,150,carved turkey salad,Salad
+377,Subway,Chicken & Bacon Ranch Melt Salad (includes Ranch dressing),510,chicken & bacon ranch melt salad (includes ranch dressing),Salad
+378,Subway,Cold Cut Combo Salad,180,cold cut combo salad,Salad
+379,Subway,Double Chicken Salad,220,double chicken salad,Salad
+380,Subway,Italian B.M.T.® Salad,230,italian b.m.t.® salad,Salad
+381,Subway,Italian Hero Salad,230,italian hero salad,Salad
+382,Subway,Meatball Marinara Salad,310,meatball marinara salad,Salad
+383,Subway,Oven Roasted Chicken Salad,140,oven roasted chicken salad,Salad
+384,Subway,Roast Beef Salad,140,roast beef salad,Salad
+385,Subway,Spicy Italian Salad,310,spicy italian salad,Salad
+386,Subway,Steak & Cheese Salad,210,steak & cheese salad,Salad
+387,Subway,Subway Club Salad,140,subway club salad,Salad
+388,Subway,Subway Melt® Salad,200,subway melt® salad,Salad
+389,Subway,Sweet Onion Chicken Teriyaki Salad,200,sweet onion chicken teriyaki salad,Salad
+390,Subway,Tuna Salad,310,tuna salad,Salad
+391,Subway,Turkey Breast & Ham Salad,110,turkey breast & ham salad,Salad
+392,Subway,Turkey Breast Salad,110,turkey breast salad,Salad
+393,Subway,Veggie Delite Salad,50,veggie delite salad,Salad
+394,Subway,Chipotle Southwest Steak & Cheese Wrap,760,chipotle southwest steak & cheese wrap,Tacos & Wraps
+395,Subway,Rotisserie-Style Chicken Caesar Wrap,730,rotisserie-style chicken caesar wrap,Tacos & Wraps
+396,Subway,"Turkey, Bacon & Guacamole Wrap",810,"turkey, bacon & guacamole wrap",Tacos & Wraps
+397,Subway,Cheese & Veggies Pizza,740,cheese & veggies pizza,Other
+398,Subway,Cheese Pizza,680,cheese pizza,Other
+399,Subway,Pepperoni Pizza,790,pepperoni pizza,Other
+400,Subway,Sausage Pizza,820,sausage pizza,Other
+401,Taco Bell,1/2 lb.* Cheesy Potato Burrito,540,1/2 lb.* cheesy potato burrito,Tacos & Wraps
+402,Taco Bell,1/2 lb.* Combo Burrito,460,1/2 lb.* combo burrito,Tacos & Wraps
+403,Taco Bell,7-Layer Burrito,510,7-layer burrito,Tacos & Wraps
+404,Taco Bell,Bean Burrito,370,bean burrito,Tacos & Wraps
+405,Taco Bell,Beefy 5-Layer Burrito,550,beefy 5-layer burrito,Tacos & Wraps
+406,Taco Bell,Beefy Fritos® Burrito,440,beefy fritos® burrito,Tacos & Wraps
+407,Taco Bell,Black Bean Burrito,410,black bean burrito,Tacos & Wraps
+408,Taco Bell,Burrito Supreme® – Beef,420,burrito supreme® – beef,Tacos & Wraps
+409,Taco Bell,Burrito Supreme® - Chicken,390,burrito supreme® - chicken,Tacos & Wraps
+410,Taco Bell,Burrito Supreme® - Steak,390,burrito supreme® - steak,Tacos & Wraps
+411,Taco Bell,Cantina Power Burrito - Chicken,760,cantina power burrito - chicken,Tacos & Wraps
+412,Taco Bell,Cantina Power Burrito - Steak,780,cantina power burrito - steak,Tacos & Wraps
+413,Taco Bell,Cantina Power Burrito - Veggie,740,cantina power burrito - veggie,Tacos & Wraps
+414,Taco Bell,Cheesy Bean and Rice Burrito,420,cheesy bean and rice burrito,Tacos & Wraps
+415,Taco Bell,Chili Cheese Burrito,380,chili cheese burrito,Tacos & Wraps
+416,Taco Bell,Chicken Crunchy Cheesy Core Burrito,610,chicken crunchy cheesy core burrito,Tacos & Wraps
+417,Taco Bell,Steak Crunchy Cheesy Core Burrito,610,steak crunchy cheesy core burrito,Tacos & Wraps
+418,Taco Bell,Beef Crunchy Cheesy Core Burrito,630,beef crunchy cheesy core burrito,Tacos & Wraps
+419,Taco Bell,Loaded Taco Burrito,550,loaded taco burrito,Tacos & Wraps
+420,Taco Bell,Chicken Quesarito,620,chicken quesarito,Tacos & Wraps
+421,Taco Bell,Steak Quesarito,630,steak quesarito,Tacos & Wraps
+422,Taco Bell,Beef Quesarito,650,beef quesarito,Tacos & Wraps
+423,Taco Bell,Shredded Chicken Burrito,400,shredded chicken burrito,Tacos & Wraps
+424,Taco Bell,Smothered Burrito - Beef,710,smothered burrito - beef,Tacos & Wraps
+425,Taco Bell,Smothered Burrito - Shredded Chicken,650,smothered burrito - shredded chicken,Tacos & Wraps
+426,Taco Bell,Smothered Burrito - Steak,670,smothered burrito - steak,Tacos & Wraps
+427,Taco Bell,Chicken Spicy Cheesy Core Burrito,540,chicken spicy cheesy core burrito,Tacos & Wraps
+428,Taco Bell,Steak Spicy Cheesy Core Burrito,550,steak spicy cheesy core burrito,Tacos & Wraps
+429,Taco Bell,Beef Spicy Cheesy Core Burrito,570,beef spicy cheesy core burrito,Tacos & Wraps
+430,Taco Bell,Triple Melt Burrito,410,triple melt burrito,Tacos & Wraps
+431,Taco Bell,XXL Grilled Stuft Burrito - Beef,880,xxl grilled stuft burrito - beef,Tacos & Wraps
+432,Taco Bell,XXL Grilled Stuft Burrito - Chicken,830,xxl grilled stuft burrito - chicken,Tacos & Wraps
+433,Taco Bell,XXL Grilled Stuft Burrito - Steak,820,xxl grilled stuft burrito - steak,Tacos & Wraps
+434,Taco Bell,Chicken Soft Taco,170,chicken soft taco,Tacos & Wraps
+435,Taco Bell,Cool Ranch® Doritos® Double Decker® Taco,320,cool ranch® doritos® double decker® taco,Tacos & Wraps
+436,Taco Bell,Cool Ranch® Doritos® Locos Taco,160,cool ranch® doritos® locos taco,Tacos & Wraps
+437,Taco Bell,Cool Ranch® Doritos® Locos Taco Supreme,200,cool ranch® doritos® locos taco supreme,Tacos & Wraps
+438,Taco Bell,Crunchy Taco,170,crunchy taco,Tacos & Wraps
+439,Taco Bell,Crunchy Taco Supreme®,200,crunchy taco supreme®,Tacos & Wraps
+440,Taco Bell,Double Decker® Taco,320,double decker® taco,Tacos & Wraps
+441,Taco Bell,DOUBLE DECKER® Taco Supreme®,350,double decker® taco supreme®,Tacos & Wraps
+442,Taco Bell,Spicy Sweet Double Stacked Taco,340,spicy sweet double stacked taco,Tacos & Wraps
+443,Taco Bell,Cool Ranch Habanero Double Stacked Taco,350,cool ranch habanero double stacked taco,Tacos & Wraps
+444,Taco Bell,Nacho Crunch Double Stacked Taco,380,nacho crunch double stacked taco,Tacos & Wraps
+445,Taco Bell,Fiery Doritos® Double Decker® Taco,320,fiery doritos® double decker® taco,Tacos & Wraps
+446,Taco Bell,Fiery Doritos® Locos Taco,170,fiery doritos® locos taco,Tacos & Wraps
+447,Taco Bell,Fiery Doritos® Locos Taco Supreme,200,fiery doritos® locos taco supreme,Tacos & Wraps
+448,Taco Bell,Grilled Steak Soft Taco,250,grilled steak soft taco,Tacos & Wraps
+449,Taco Bell,Nacho Cheese Doritos® Double Decker® Taco,320,nacho cheese doritos® double decker® taco,Tacos & Wraps
+450,Taco Bell,Nacho Cheese Doritos® Locos Tacos,170,nacho cheese doritos® locos tacos,Tacos & Wraps
+451,Taco Bell,Nacho Cheese Doritos® Locos Tacos Supreme,200,nacho cheese doritos® locos tacos supreme,Tacos & Wraps
+452,Taco Bell,Soft Taco Supreme® – Beef,230,soft taco supreme® – beef,Tacos & Wraps
+453,Taco Bell,Soft Taco-Beef,200,soft taco-beef,Tacos & Wraps
+454,Taco Bell,Spicy Potato Soft Taco,250,spicy potato soft taco,Tacos & Wraps
+455,Taco Bell,Chalupa Supreme® - Chicken,340,chalupa supreme® - chicken,Tacos & Wraps
+456,Taco Bell,Chalupa Supreme® - Steak,340,chalupa supreme® - steak,Tacos & Wraps
+457,Taco Bell,Chalupa Supreme®–Beef,370,chalupa supreme®–beef,Tacos & Wraps
+458,Taco Bell,Double Chalupa,600,double chalupa,Tacos & Wraps
+459,Taco Bell,Wild Naked Chicken Chalupa,420,wild naked chicken chalupa,Tacos & Wraps
+460,Taco Bell,Mild Naked Chicken Chalupa,440,mild naked chicken chalupa,Tacos & Wraps
+461,Taco Bell,Spicy Double Chalupa,600,spicy double chalupa,Tacos & Wraps
+462,Taco Bell,Fresco Bean Burrito,350,fresco bean burrito,Tacos & Wraps
+463,Taco Bell,Fresco Burrito Supreme® – Chicken,340,fresco burrito supreme® – chicken,Tacos & Wraps
+464,Taco Bell,Fresco Burrito Supreme® – Steak,340,fresco burrito supreme® – steak,Tacos & Wraps
+465,Taco Bell,Fresco Chicken Soft Taco,150,fresco chicken soft taco,Tacos & Wraps
+466,Taco Bell,Fresco Crunchy Taco,140,fresco crunchy taco,Tacos & Wraps
+467,Taco Bell,Fresco Grilled Steak Soft Taco,150,fresco grilled steak soft taco,Tacos & Wraps
+468,Taco Bell,Fresco Soft Taco,170,fresco soft taco,Tacos & Wraps
+469,Taco Bell,Cheesy Gordita Crunch,490,cheesy gordita crunch,Tacos & Wraps
+470,Taco Bell,Doritos® Cheesy Gordita Crunch - Cool Ranch,490,doritos® cheesy gordita crunch - cool ranch,Tacos & Wraps
+471,Taco Bell,Doritos® Cheesy Gordita Crunch - Fiery,490,doritos® cheesy gordita crunch - fiery,Tacos & Wraps
+472,Taco Bell,Doritos® Cheesy Gordita Crunch - Nacho Cheese,490,doritos® cheesy gordita crunch - nacho cheese,Tacos & Wraps
+473,Taco Bell,Double Cheesy Gordita Crunch,570,double cheesy gordita crunch,Tacos & Wraps
+474,Taco Bell,Gordita Supreme® – Beef,300,gordita supreme® – beef,Tacos & Wraps
+475,Taco Bell,Gordita Supreme® - Chicken,270,gordita supreme® - chicken,Tacos & Wraps
+476,Taco Bell,Gordita Supreme® - Steak,270,gordita supreme® - steak,Tacos & Wraps
+477,Taco Bell,Nacho Fries Bellgrande,710,nacho fries bellgrande,Other
+478,Taco Bell,Nachos BellGrande®,760,nachos bellgrande®,Tacos & Wraps
+479,Taco Bell,Nachos Supreme,430,nachos supreme,Tacos & Wraps
+480,Taco Bell,Triple Layer Nachos,320,triple layer nachos,Tacos & Wraps
+481,Taco Bell,Triple Melt Nachos,260,triple melt nachos,Tacos & Wraps
+482,Taco Bell,Beefy Cheddar Crunchwrap Slider,410,beefy cheddar crunchwrap slider,Tacos & Wraps
+483,Taco Bell,Beefy Mini Quesadilla,210,beefy mini quesadilla,Tacos & Wraps
+484,Taco Bell,Beefy Nacho Griller,420,beefy nacho griller,Tacos & Wraps
+485,Taco Bell,BLT Crunchwrap Slider,430,blt crunchwrap slider,Tacos & Wraps
+486,Taco Bell,Cantina Power Bowl - Chicken,560,cantina power bowl - chicken,Other
+487,Taco Bell,Cantina Power Bowl - Steak,580,cantina power bowl - steak,Other
+488,Taco Bell,Cantina Power Bowl - Veggie,540,cantina power bowl - veggie,Other
+489,Taco Bell,Cheese Quesadilla,480,cheese quesadilla,Tacos & Wraps
+490,Taco Bell,Cheese Roll-Up,190,cheese roll-up,Tacos & Wraps
+491,Taco Bell,Chicken Quesadilla,520,chicken quesadilla,Tacos & Wraps
+492,Taco Bell,Chickstar,620,chickstar,Tacos & Wraps
+493,Taco Bell,Chili Cheese Burrito,380,chili cheese burrito,Tacos & Wraps
+494,Taco Bell,Chipotle Crispy Chicken Griller,290,chipotle crispy chicken griller,Tacos & Wraps
+495,Taco Bell,Crispy Chicken Quesadilla,650,crispy chicken quesadilla,Tacos & Wraps
+496,Taco Bell,Crunchwrap Supreme®,540,crunchwrap supreme®,Tacos & Wraps
+497,Taco Bell,Double Tostada,270,double tostada,Tacos & Wraps
+498,Taco Bell,Express Taco Salad w/ Chips,580,express taco salad w/ chips,Tacos & Wraps
+499,Taco Bell,Loaded Potato Griller,470,loaded potato griller,Tacos & Wraps
+500,Taco Bell,Mexican Pizza,540,mexican pizza,Other
+501,Taco Bell,MexiMelt®,270,meximelt®,Tacos & Wraps
+502,Taco Bell,Steak Quesalupa,440,steak quesalupa,Tacos & Wraps
+503,Taco Bell,Chicken Quesalupa,440,chicken quesalupa,Tacos & Wraps
+504,Taco Bell,Beef Quesalupa,460,beef quesalupa,Tacos & Wraps
+505,Taco Bell,Shredded Chicken Mini Quesadilla,180,shredded chicken mini quesadilla,Tacos & Wraps
+506,Taco Bell,Spicy Chicken Crunchwrap Slider,400,spicy chicken crunchwrap slider,Tacos & Wraps
+507,Taco Bell,Spicy Tostada,200,spicy tostada,Tacos & Wraps
+508,Taco Bell,Stacker,390,stacker,Tacos & Wraps
+509,Taco Bell,Steak Quesadilla,520,steak quesadilla,Tacos & Wraps
+510,Taco Bell,Original Triple Double Crunchwrap,700,original triple double crunchwrap,Tacos & Wraps
+511,Taco Bell,Spicy Triple Double Crunchwrap,780,spicy triple double crunchwrap,Tacos & Wraps
+512,Taco Bell,Express Taco Salad w/ Chips,580,express taco salad w/ chips,Tacos & Wraps
+513,Taco Bell,Fiesta Taco Salad-Beef,780,fiesta taco salad-beef,Tacos & Wraps
+514,Taco Bell,Fiesta Taco Salad-Chicken,720,fiesta taco salad-chicken,Tacos & Wraps
+515,Taco Bell,Fiesta Taco Salad-Steak,720,fiesta taco salad-steak,Tacos & Wraps
