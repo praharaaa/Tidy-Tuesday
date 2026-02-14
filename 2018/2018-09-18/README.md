@@ -16,4 +16,4 @@ Alveolar oxygen and carbon dioxide pressure table adapted from Guyton and Hallâ€
 R (tidyverse, ggplot2, TidyTuesdayR, ggtext, scales, showtext, janitor)
 
 ## Visualization
-![Hypoxia risk across flight levels](pilot.hypoxia.png)
+![Hypoxia risk across flight levels](pilot_hypoxia.png)
